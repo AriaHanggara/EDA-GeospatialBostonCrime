@@ -1,5 +1,5 @@
 # EDA-GeospatialBostonCrime
-EDA dengan Analisis Geospatial Kejahatan Di Kota Boston
+EDA dengan Analisis Geospatial Kejahatan Di Kota Boston.
 
 # Usage
 Pastikan anda sudah meng-install conda atau jupyter notebook.
